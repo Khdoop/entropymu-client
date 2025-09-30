@@ -1,0 +1,19 @@
+0
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------//
+//RenderEffect 2 = Solido | RenderEffect 66 = Transparente | RenderEffect 70 = Glow                                                                             //
+//EffectType -1 = Sin Efecto | EffectType 0 = Animacion en X | EffectType 1 = Animacion en Y                                                                    // 
+//EffectType 2 = Animacion reversa en X | EffectType 3 = Animacion Reversa en Y | EffectType 4 = Animacion en Frame 4x4 | EffectType 5 = Animacion en Frame 1x4 //
+//TimeEffectType = Velocidad de animacion en "EffectType" | TimeTextureID = Velocidad de animacion en "TextureID" (Efecto Render)                               //
+//TimeTextureID 1 = Velocidad de animacion en "TextureID" (Efecto Render) | TimeTextureID -1 = Deja de hacer el efecto Render en TextureID                      //
+//LevelGlow = El Brillo que aparece al Subir de nivel con Bless/Soul                                                                                            //
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------//
+//	Type	Index	Red	Green	Blue	GroupMesh	RenderEffect	EffectType	TimeEffectType	TextureID	TimeTextureID	LevelGlow       //
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------//
+	12	342	1.000000	1.000000	1.000000	0	2	-1	1.000000	-1	-1	1	
+	12	342	1.000000	1.000000	1.000000	1	2	-1	1.000000	-1	-1	1
+	12	342	1.000000	1.000000	1.000000	2	2	-1	1.000000	-1	-1	1	
+	12	342	1.000000	1.000000	1.000000	3	2	-1	1.000000	-1	-1	1	
+	12	342	1.000000	1.000000	1.000000	4	66	-1	1.000000	-1	-1	0
+	12	342	1.000000	1.000000	1.000000	5	66	4	1.000000	-1	-1	0
+	12	342	0.411765	0.615686	1.000000	6	66	-1	1.000000	-1	-1	0
+end

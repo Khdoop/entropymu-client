@@ -1,0 +1,19 @@
+10@Credits@200@201@10@1@1
+20@Transmog Badges@200@201@20@2@1
+31@Transmog Kits@200@201@10@2@0
+32@Mounts@200@201@10@3@0
+33@Others@200@201@10@7@0
+34@Transmog Wings@200@201@10@4@0
+35@Transmog Sets@200@201@10@5@0
+36@Starter Packs@200@201@10@1@0
+37@Transmog Weapons@200@201@10@6@0
+38@Muun Pets@200@201@10@8@0
+61@Sets@200@201@20@1@0
+62@Swords@200@201@20@3@0
+63@Wings@200@201@20@9@0
+64@Staffs/Sticks@200@201@20@4@0
+65@Fists@200@201@20@6@0
+66@Scepters@200@201@20@5@0
+67@Bows@200@201@20@7@0
+68@Shields@200@201@20@8@0
+69@Cloaks@200@201@20@10@0

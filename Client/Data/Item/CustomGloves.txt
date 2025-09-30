@@ -1,0 +1,2 @@
+//ItemIndex	ModelName		IndexLeft	TextureLeft			IndexRight			TextureRight	ColorR	ColorG	ColorB
+INDEX 	"Claws" 		1554 	"Claws_L" 	1555	"Claws_R"	39 150 19		//Name Gloves

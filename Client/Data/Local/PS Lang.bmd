@@ -1,0 +1,126 @@
+[Padrão]
+
+Qual	= PT
+
+[PT]
+
+title	= Informação
+s1	= Usuário
+s2	= Resolução
+s3	= Qualidade
+s4	= Taxa
+s5	= Volume
+s6	= Som ligado/desligado
+s7	= Música ligado/desligado
+s8	= Modo janela ligado/desligado
+s9	= Aplicar
+s10	= F9: Auto click esquerdo
+s11	= F10: Auto click direito
+s12	= F11: Ativa modo janela / F8: Esconde e mostra janela
+s13	= Atualização concluída
+s14	= Atualizando ...
+s15	= Baixando o arquivo 
+s16	= Verificando o registro ...
+s17	= Registro criado!
+s18	= Registro atualizado!
+s19	= Existem arquivos faltando, por favor reinstale o cliente!
+s20	= Volume
+s21	= O jogo já está aberto!
+s22	= Idioma
+s23	= Jogar
+s24	= Opções
+s25	= Ir para o site
+s26	= Impossivel se conectar ao servidor neste momento, tente mais tarde!
+s27	= Relatório do sistema
+s28	= Data
+s29	= Hora
+s30	= Pid
+s31	= Processo
+s32	= Identificação
+s33	= Foi detectado uma ameaça em seu sistema, o administrador foi notificado:
+s34	= Um processo importante não foi encontrado!
+s35	= Impossível iniciar a proteção residente!
+s36	= Execute o jogo pelo launcher!
+s37	=Algum arquivo foi modificado!
+
+[ENG]
+
+title 	= Information
+s1 	= User
+s2 	= Resolution
+s3 	= Quality
+s4 	= Rate
+s5 	= Volume
+s6 	= Sound on / off
+s7 	= Music on / off
+s8 	= Window Mode on / off
+s9 	= Apply
+s10 	= F9: Auto click left
+s11 	= F10: Right click Auto
+s12 	= F11: Hides and restores the game window
+s13 	= Update Complete
+s14 	= Updating ...
+s15 	= Downloading the file
+s16 	= Checking the record ...
+s17 	= Record created!
+s18 	= Record updated!
+s19 	= There are files missing, please reinstall the client!
+s20 	= Volume
+s21 	= The game is now open!
+s22 	= Language
+s23 	= Play
+s24 	= Options
+s25 	= Go to website
+s26 	= Can not connect to server at this time, please try again later!
+S27 	= System Report
+S28 	= Date
+S29 	= Time
+s30 	= Pid
+s31 	= Process
+s32 	= Identification
+s33 	= a threat has been detected on your system, the administrator was notified:
+s34 	= An important process was not found!
+s35 	= Unable to start the resident protection!
+S36 	= Run the game by launcher!
+s37 	=Any file has been modified!
+
+[SPN]
+
+title 	=Información
+s1 	= Usuario
+s2 	= la resolución
+s3 	= Calidad
+s4 	= Tasa
+s5 	= Volumen
+s6 	= sonido on / off
+s7 	= Música on / off
+s8 	= Ventana Modo encendido / apagado
+s9 	= Aplicar
+s10 	= F9: Haga clic en Auto izquierda
+s11 	= F10: Auto clic derecho
+s12 	= F11: Cueros y restaura la ventana de juego
+s13 	= Completa actualización
+s14 	= Actualizando ...
+s15 	= Descargando el archivo
+s16 	= Comprobar el registro ...
+s17 	= Registro creado!
+s18 	= Registro actualizado!
+s19 	= hay archivos que faltan, por favor, vuelva a instalar el cliente!
+s20 	= Volumen
+s21 	= El juego ya está abierta!
+s22 	= Idioma
+s23 	= Reproducir
+s24 	= Opciones
+s25 	= Ir a la página web
+s26 	= No se puede conectar con el servidor en este momento, por favor, inténtelo de nuevo más tarde!
+S27 	= Sistema de Reporte
+S28 	= Fecha
+S29 	= Tiempo
+s30 	= Pid
+s31 	= Proceso
+s32 	= La identificación
+s33 	= una amenaza que se ha detectado en el sistema, el administrador ha sido notificado:
+s34 	= Un proceso importante que no ha sido encontrado!
+s35 	= No se puede iniciar la protección residente!
+S36 	= Ejecutar el juego por el lanzador!
+s37 	=Cualquier archivo ha sido modificado!

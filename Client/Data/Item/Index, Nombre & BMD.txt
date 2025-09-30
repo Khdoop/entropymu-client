@@ -1,0 +1,382 @@
+Index="0" Name="Pinocchio" ModelFile="pinocchio.bmd" ok
+Index="1" Name="Pinocchio (Evolved)" ModelFile="pinocchioUp.bmd" ok
+Index="2" Name="Geppetto" ModelFile="geppetoo.bmd" ok
+Index="3" Name="Geppetto (Evolved)" ModelFile="geppetooUp.bmd" ok
+Index="4" Name="Blue Fairy" ModelFile="bluefairy.bmd" ok
+Index="5" Name="Blue Fairy (Evolved)" ModelFile="bluefairyUp.bmd" ok
+Index="6" Name="Papa Bear" ModelFile="daddybear.bmd" ok
+Index="7" Name="Papa Bear (Evolved)" ModelFile="daddybearUp.bmd" ok
+Index="8" Name="Baby Bear" ModelFile="babybear.bmd" ok
+Index="9" Name="Baby Bear (Evolved)" ModelFile="babybearUp.bmd" ok
+Index="10" Name="Mama Bear" ModelFile="mommybear.bmd" ok
+Index="11" Name="Mama Bear (Evolved)" ModelFile="mommybearUp.bmd" ok
+Index="12" Name="Woody" ModelFile="indio.bmd" ok
+Index="13" Name="Woody (Evolved)" ModelFile="indioUp.bmd" ok
+Index="14" Name="Treasure Chest" ModelFile="treasure.bmd" ok
+Index="15" Name="Treasure Chest (Evolved)" ModelFile="treasureUp.bmd" ok
+Index="16" Name="Treasure Hunter" ModelFile="treasurehunter.bmd" ok
+Index="17" Name="Treasure Hunter (Evolved)" ModelFile="treasurehunterUp.bmd" ok
+Index="18" Name="Tree Elf" ModelFile="treeelf.bmd" ok
+Index="19" Name="Tree Elf (Evolved)" ModelFile="treeelfUp.bmd" ok
+Index="20" Name="Grass Fairy"  ModelFile="grassfairy.bmd" ok
+Index="21" Name="Grass Fairy (Evolved)" ModelFile="grassfairyUp.bmd" ok
+Index="22" Name="Leaf Mage" ModelFile="leafsorcerer.bmd" ok
+Index="23" Name="Leaf Mage (Evolved)" ModelFile="leafsorcererUp.bmd" ok
+Index="24" Name="Samba Girl" ModelFile="sambagirl.bmd" ok
+Index="25" Name="Samba Girl (Evolved)" ModelFile="sambagirlUp.bmd" ok
+Index="26" Name="Rio" ModelFile="rio.bmd" ok
+Index="27" Name="Rio (Evolved)" ModelFile="rioUp.bmd" ok
+Index="28" Name="Bateria" ModelFile="bateriaUp.bmd" ok
+Index="30" Name="Reporter" ModelFile="presscorps.bmd" ok
+Index="31" Name="Dragon Articles" ModelFile="DragonKnight.bmd" ok
+Index="32" Name="Tiger" ModelFile="Tiger.bmd" ok
+Index="33" Name="Tiger (Evolved)" ModelFile="tigerUp.bmd" ok
+Index="34" Name="Libra" ModelFile="Libra.bmd" ok
+Index="35" Name="Libra (Evolved)" ModelFile="LibraUp.bmd"ok
+Index="36" Name="Scorpio" ModelFile="scorpio.bmd" ok
+Index="37" Name="Scorpio (Evolved)" ModelFile="scorpioUp.bmd" ok
+Index="38" Name="Rabbit" ModelFile="rabbit.bmd" ok
+Index="39" Name="Rabbit (Evolved)" ModelFile="rabbitUp.bmd" ok
+Index="40" Name="Kaolin" ModelFile="doto.bmd" ok
+Index="41" Name="Chicken" ModelFile="Chefchicken.bmd" ok
+Index="42" Name="Chicken (Evolved)" ModelFile="ChefchickenUp.bmd" ok
+Index="43" Name="Rooster" ModelFile="chick.bmd" ok
+Index="44" Name="Rooster (Evolved)" ModelFile="chickUp.bmd" ok
+Index="45" Name="Angry Rooster" ModelFile="angrychicken.bmd" ok
+Index="46" Name="Angry Rooster (Evolved)" ModelFile="angrychickenUp.bmd" ok
+Index="47" Name="Lion" ModelFile="lionmask.bmd" ok
+Index="48" Name="Lion (Evolved)" ModelFile="lionmaskUp.bmd" ok
+Index="49" Name="Knight Instructor" ModelFile="knightinstructor.bmd" ok
+Index="50" Name="Knight Instructor (Evolved)" ModelFile="knightinstructorUP.bmd" ok
+Index="51" Name="Blackbeard" ModelFile="blackleopard.bmd" ok
+Index="52" Name="Blackbeard (Evolved)" ModelFile="blackleopardUp.bmd" ok
+Index="53" Name="Toy Robot" ModelFile="toyrobot.bmd" />
+Index="54" Name="Toy Robot (Evolved)" ModelFile="toyrobotUp.bmd" ok
+Index="55" Name="Adventure cat" ModelFile="adventurecat.bmd" ok
+Index="56" Name="Adventure cat (Evolved)" ModelFile="adventurecatUp.bmd" ok
+Index="57" Name="Dike" ModelFile="dike.bmd" ok
+Index="58" Name="Dike (Evolved)" ModelFile="dikeUp.bmd" ok
+Index="59" Name="Rainy Girl" ModelFile="raincoatGirl.bmd" ok
+Index="60" Name="Rainy Girl (Evolved)" ModelFile="raincoatGirlUp.bmd" ok
+Index="61" Name="Scarecrow" ModelFile="scarecrow.bmd" ok
+Index="62" Name="Scarecrow (Evolved)" ModelFile="scarecrowUp.bmd" ok
+Index="63" Name="Zombie Articles" ModelFile="knightZombie.bmd" ok
+Index="64" Name="Zombie Articles (Evolved)" ModelFile="knightZombieUp.bmd" ok
+Index="65" Name="Mr. Fishing King" ModelFile="mrAngler.bmd" ok
+Index="66" Name="Mr. Fishing King (Evolved)" ModelFile="mrAnglerUp.bmd" ok
+Index="67" Name="Snow Fairy" ModelFile="snowFairy.bmd" ok
+Index="68" Name="Snow Fairy (Evolved)" ModelFile="snowFairyUp.bmd" ok
+Index="69" Name="Prince" ModelFile="prince.bmd" ok
+Index="70" Name="Rex Millon" ModelFile="king.bmd"
+Index="71" Name="Dodo Poodle" ModelFile="poodle.bmd" ok
+Index="72" Name="Dodo Poodle (Evolved)" ModelFile="poodleUp.bmd" ok
+Index="73" Name="Shinan Beagle" ModelFile="beagle.bmd" ok
+Index="74" Name="Shinan Beagle (Evolved)"  ModelFile="beagleUp.bmd" ok
+Index="75" Name="Angry Bulldog" ModelFile="bulldog.bmd" ok
+Index="76" Name="Angry Bulldog (Evolved)" ModelFile="bulldogUp.bmd" ok
+Index="77" Name="Skier" ModelFile="tigerSki.bmd" ok
+Index="78" Name="Scythe (Evolved)" ModelFile="tigerSkiUp.bmd" ok
+Index="79" Name="Figure Queen" ModelFile="figure.bmd" ok
+Index="80" Name="Figure Queen (Evolved)" ModelFile="figureUp.bmd" ok
+Index="81" Name="Hockey Bear" ModelFile="bearhockey.bmd" ok
+Index="82" Name="Hockey Bear (Evolved)" ModelFile="bearhockeyUp.bmd" ok
+Index="83" Name="Pilot" ModelFile="pilot.bmd" ok
+Index="84" Name="Pilot (Evolved)" ModelFile="pilotUp.bmd" ok
+Index="85" Name="Super Panda" ModelFile="superpanda.bmd" ok
+Index="86" Name="Super Panda (Evolved)" ModelFile="superpandaUp.bmd" ok
+Index="87" Name="Belly Dancer" ModelFile="bellydancer.bmd" ok
+Index="88" Name="Belly Dancer (Evolved)" ModelFile="bellydancerUp.bmd" ok
+Index="89" Name="Strong Captain" ModelFile="bestcaptain.bmd" ok
+Index="90" Name="Strong Captain (Evolved)" ModelFile="bestcaptainUp.bmd" ok
+Index="91" Name="Strong Keeper" ModelFile="goalkeeper.bmd" ok
+Index="92" Name="Strong Keeper (Evolved)"  ModelFile="goalkeeperUp.bmd" ok
+Index="93" Name="Supreme Referee" ModelFile="referee.bmd" ok
+Index="94" Name="Supreme Referee (Evolved)" ModelFile="refereeUp.bmd" ok
+Index="95" Name="Hip-Hop Dino"  ModelFile="hiphopdino.bmd" ok
+Index="96" Name="Hip-Hop Dino (Evolved)" ModelFile="hiphopdinoUp.bmd" ok
+Index="97" Name="Beach Girl" ModelFile="beachgirl.bmd" ok
+Index="98" Name="Beach Girl (Evolved)" ModelFile="beachgirlUp.bmd" ok
+Index="99" Name="Bead Master" ModelFile="poodle.bmd" ok
+Index="100" Name="Bead Master (Evolved)" ModelFile="poodleUp.bmd" ok
+Index="101" Name="Hangul King" ModelFile="kingofhangeul.bmd" ok
+Index="102" Name="Hangul (Evolved)" ModelFile="kingofhangeulUp.bmd" ok
+Index="103" Name="Apple Sword" ModelFile="applemagician.bmd" ok
+Index="104" Name="Apple Sword (Evolved)" ModelFile="applemagicianUp.bmd" ok
+Index="105" Name="Flying Bread" ModelFile="flyingbread.bmd" ok
+Index="106" Name="Flying Bread (Evolved)" ModelFile="flyingbreadUp.bmd" ok
+Index="107" Name="The Great Fairy Kara" ModelFile="karafairy.bmd" ok
+Index="108" Name="Great Wizard Eithamu" ModelFile="magician.bmd" ok
+Index="109" Name="Bell" ModelFile="runemuun.bmd" ok
+Index="110" Name="Lapa" ModelFile="rapa.bmd" ok
+Index="111" Name="Lapa (Evolved)" ModelFile="rapaUp.bmd" ok
+Index="112" Name="Knicks"  ModelFile="nix.bmd" ok
+Index="113" Name="Knicks (Evolved)" ModelFile="nixUp.bmd" ok
+Index="114" Name="Serufan" ModelFile="selupan.bmd" ok
+Index="115" Name="Serufan (Evolved)" ModelFile="selupanUp.bmd" ok
+Index="116" Name="Medusa" ModelFile="medusa.bmd" ok
+Index="117" Name="Medusa (Evolved)" ModelFile="medusaUp.bmd" ok
+Index="118" Name="Balrog"  ModelFile="balrog.bmd" ok
+Index="119" Name="Balrog (Evolved)" ModelFile="balrogUp.bmd" ok
+Index="120" Name="Hellmine" ModelFile="hellmaine.bmd" ok
+Index="121" Name="Hellmine (Evolved)" ModelFile="hellmaineUp.bmd" ok
+Index="122" Name="Kundun" ModelFile="kundun.bmd" ok
+Index="123" Name="Kundun (Evolved)" ModelFile="kundunUp.bmd" ok
+Index="124" Name="Hydra" ModelFile="hydra.bmd" ok
+Index="125" Name="Hydra (Evolved)" ModelFile="hydraUp.bmd" ok
+Index="126" Name="Lord Silvester" ModelFile="lordsilvester.bmd" ok
+Index="127" Name="Lord Silvester (Evolved)" ModelFile="lordsilvesterUp.bmd" ok
+Index="128" Name="Nightmare" ModelFile="nightmare.bmd" ok
+Index="129" Name="Nightmare (Evolved)" ModelFile="nightmareUp.bmd" ok
+Index="130" Name="Dark Phoenix" ModelFile="phoenixofdarkness.bmd" ok
+Index="131" Name="Dark Phoenix (Evolved)" ModelFile="phoenixofdarknessUp.bmd" ok
+Index="132" Name="Kailuku" ModelFile="kairuku.bmd" ok
+Index="133" Name="Kairuku (Evolved)"  ModelFile="kairukuUp.bmd" ok
+Index="134" Name="Legendary Warlock" ModelFile="magicianmuun.bmd"
+Index="135" Name="The Fairy Guardian" ModelFile="elfmuun.bmd" ok
+Index="136" Name="Desmodus" ModelFile="Desmodus.bmd" ok
+Index="137" Name="Desmodus (Evolved)" ModelFile="Desmodus_evol.bmd" ok
+Index="138" Name="Fairy Queen Runedil" ModelFile="elfqueen.bmd" ok
+Index="139" Name="Magician Gaion Karein" ModelFile="gaionkharein.bmd" ok
+Index="140" Name="Fighter" ModelFile="mousemuun.bmd" ok
+Index="141" Name="Fighter (Evolved)" ModelFile="mousemuunUp.bmd" ok
+Index="142" Name="Flower Leader Leah" ModelFile="leah.bmd" ok
+Index="143" Name="Flower Leader Leah (Evolved)" ModelFile="leahUp.bmd" ok
+Index="144" Name="Shadow Phantom" ModelFile="shadowphantom.bmd" ok
+Index="145" Name="Shadow Phantom (Evolved)" ModelFile="shadowphantomUp.bmd" ok
+Index="146" Name="Warehouse Guardian" ModelFile="guardian.bmd" ok
+Index="147" Name="Warehouse Guardian (Evolved)" ModelFile="guardianUp.bmd" ok
+Index="148" Name="Fairy Lara" ModelFile="lala.bmd" ok
+Index="149" Name="Fairy Lara (Evolved)" ModelFile="lalaUp.bmd" ok
+Index="150" Name="Tablet's Elpis" ModelFile="elpise.bmd" ok
+Index="151" Name="Magic Swordsman Muren Rexmillon" ModelFile="Mulen.bmd" ok
+Index="152" Name="Uma King" ModelFile="kingcow.bmd" ok
+Index="153" Name="Uma King (Evolved)" ModelFile="kingcowUp.bmd" ok
+Index="154" Name="Dandelion Fairy" ModelFile="dandelion.bmd" ok 
+Index="155" Name="Dandelion Fairy (Evolved)" ModelFile="dandelionUp.bmd" ok
+Index="156" Name="Sea Lifeguard" ModelFile="Lifeguard.bmd" ok
+Index="157" Name="Sea Lifeguard (Evolved)" ModelFile="LifeguardUp.bmd" ok
+Index="158" Name="Night Song Fairy" ModelFile="chestnut.bmd" ok
+Index="159" Name="Night Song Fairy (Evolved)" ModelFile="chestnutUp.bmd" ok
+Index="160" Name="Snowboarder" ModelFile="Snowboarder.bmd" ok
+Index="161" Name="Snowboarder (Evolved)" ModelFile="SnowboarderUp.bmd" ok
+Index="162" Name="Ambassador" ModelFile="emphasizer.bmd" ok
+Index="163" Name="Gargoyle" ModelFile="gargoyle.bmd" ok
+Index="164" Name="Lemuria &amp; Kundun" ModelFile="kunremu.bmd" ok
+Index="165" Name="Panda Tao" ModelFile="tsingtao.bmd" ok
+Index="166" Name="Elemental Elf" ModelFile="ellimentalelf.bmd" ok
+Index="167" Name="Illusion Knight Jacquard" ModelFile="illusionmuun.bmd" ok
+Index="211" Name="Evolution Stone" ModelFile="evolutionstone.bmd" ok
+Index="212" Name="Luki" ModelFile="dragonpet.bmd" ok
+Index="213" Name="Luki (Evolved)" ModelFile="dragonpet_evol.bmd" ok
+Index="214" Name="Tony" ModelFile="stonepet.bmd" ok
+Index="215" Name="Tony (Evolved)"  ModelFile="stonepet_evol.bmd" ok
+Index="216" Name="Nymph"  ModelFile="mermaidpet.bmd" ok
+Index="217" Name="Nymph (Evolved)" ModelFile="mermaidpet_evol.bmd" ok
+Index="218" Name="Safi" ModelFile="satanpet.bmd" ok
+Index="219" Name="Safi (Evolved)" ModelFile="satanpet_evol.bmd" ok
+Index="223" Name="William" ModelFile="williumpet.bmd" ok
+Index="224" Name="William (Evolved)" ModelFile="williumpet_evol.bmd" ok
+Index="225" Name="Paul" ModelFile="Polpet.bmd" ok
+Index="226" Name="Paul (Evolved)" ModelFile="Polpet_evol.bmd" ok
+Index="227" Name="Chiron" ModelFile="Kironpet.bmd" ok
+Index="228" Name="Chiron (Evolved)" ModelFile="Kironpet_evol.bmd" ok
+Index="229" Name="Wooparoo" ModelFile="wooparoopet.bmd" ok
+Index="230" Name="Wooparoo (Evolved)" ModelFile="wooparoopet_evol.bmd" ok
+Index="231" Name="Tibetton" ModelFile="wolfpet.bmd" ok
+Index="232" Name="Tibetton (Evolved)" ModelFile="wolfpet_evol.bmd" ok
+Index="233" Name="Witch" ModelFile="Witchpet.bmd" ok
+Index="234" Name="Witch (Evolved)" ModelFile="Witchpet_evol.bmd" ok
+Index="235" Name="Skull" ModelFile="Skullpet.bmd" ok
+Index="236" Name="Skull (Evolved)" ModelFile="Skullpet_evol.bmd" ok
+Index="237" Name="Pumpkie" ModelFile="pumpipet.bmd" ok
+Index="238" Name="Pumpkie (Evolved)" ModelFile="pumpipet_evol.bmd" ok
+Index="239" Name="Muun Energy Converter" ModelFile="spellst01.bmd" ok
+Index="240" Name="Wizardry Stone" ModelFile="spellst02.bmd" ok
+Index="241" Name="Savath"  ModelFile="sabatpet.bmd" ok
+Index="242" Name="Savath (Evolved)" ModelFile="sabatpet_evol.bmd" ok
+Index="243" Name="Lycan" ModelFile="Lycanpet.bmd" ok
+Index="244" Name="Lycan (Evolved)" ModelFile="Lycanpet_evol.bmd" ok
+Index="245" Name="Torby" ModelFile="tobypet.bmd" ok
+Index="246" Name="Torby (Evolved)" ModelFile="tobypet_evol.bmd" ok
+Index="252" Name="Seiren" ModelFile="seirenpet.bmd" ok
+Index="253" Name="Seiren (Evolved)" ModelFile="seirenpet_evol.bmd" ok
+Index="254" Name="Behemoth" ModelFile="Behemothpet.bmd" ok
+Index="255" Name="Behemoth (Evolved)" ModelFile="Behemothpet_evol.bmd" ok
+Index="256" Name="Loggle" ModelFile="loglepet.bmd" ok
+Index="257" Name="Loggle (Evolved)" ModelFile="loglepet_evol.bmd" ok
+Index="258" Name="Mino" ModelFile="minopet.bmd" ok
+Index="259" Name="Mino (Evolved)" ModelFile="minopet_evol.bmd" ok
+Index="260" Name="Hound" ModelFile="houndpet.bmd" ok
+Index="261" Name="Hound (Evolved)" ModelFile="houndpet_evol.bmd" ok
+Index="262" Name="Trive" ModelFile="tribepet.bmd" ok
+Index="263" Name="Trive (Evolved)" ModelFile="tribepet_evol.bmd" ok
+Index="264" Name="Vogan" ModelFile="bogeonpet.bmd" ok
+Index="265" Name="Vogan (Evolved)" ModelFile="bogeonpet_evol.bmd" ok
+Index="266" Name="Cyclop" ModelFile="cyclopspet.bmd" ok
+Index="267" Name="Cyclop (Evolved)" ModelFile="cyclopspet_evol.bmd" ok
+Index="270" Name="Bonf" ModelFile="Bonpeupet.bmd" ok
+Index="271" Name="Bonf (Evolved)" ModelFile="Bonpeupet_evol.bmd" ok
+Index="272" Name="Hawk" ModelFile="hawkpet.bmd" ok
+Index="273" Name="Hawk (Evolved)" ModelFile="hawkpet_evol.bmd" ok
+Index="274" Name="Muty" ModelFile="MuTpet.bmd" ok
+Index="275" Name="Muty (Evolved)" ModelFile="MuTpet_evol.bmd" ok
+Index="278" Name="Mantis" ModelFile="mantispet.bmd" ok
+Index="279" Name="Mantis (Evolved)" ModelFile="mantispet_evol.bmd" ok
+Index="280" Name="Scolpy"  ModelFile="scolpipet.bmd" ok
+Index="281" Name="Scolpy (Evolved)" ModelFile="scolpipet_evol.bmd" ok
+Index="282" Name="Chafer" ModelFile="chaferpet.bmd" ok
+Index="283" Name="Chafer (Evolved)" ModelFile="chaferpet_evol.bmd" ok
+
+<Item Index="284" Name="Shogun" Slot="-1" SkillIndex="0" Width="1" Height="1" Serial="1" Option="1" Drop="0" DropLevel="1" ReqLevel="1" Defense="0" Durability="255" ReqStrength="0" ReqDexterity="0" ReqEnergy="0" ReqVitality="0" ReqCommand="0" SetAttrib="0" DarkWizard="1" DarkKnight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" LightWizard="1" LemuriaMage="1" IllusionKnight="1" Type="0" Dump="0" Transaction="0" PersonalStore="0" StoreWarehouse="0" SellToNPC="1" ExpensiveItem="1" Repair="0" KindA="12" KindB="63" Overlap="0" NonValue="0" MasteryGrade="0" ModelPath="Data\Item\" ModelFile="shogunpet.bmd" no aparece en el cliente
+
+<Item Index="285" Name="Shogun (Evolved)" Slot="-1" SkillIndex="0" Width="1" Height="1" Serial="1" Option="1" Drop="0" DropLevel="0" ReqLevel="0" Defense="0" Durability="255" ReqStrength="0" ReqDexterity="0" ReqEnergy="0" ReqVitality="0" ReqCommand="0" SetAttrib="0" DarkWizard="1" DarkKnight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" LightWizard="1" LemuriaMage="1" IllusionKnight="1" Type="0" Dump="0" Transaction="0" PersonalStore="0" StoreWarehouse="0" SellToNPC="1" ExpensiveItem="1" Repair="0" KindA="12" KindB="63" Overlap="0" NonValue="0" MasteryGrade="0" ModelPath="Data\Item\" ModelFile="shogunpet_evol.bmd" no aparece en el cliente
+
+<Item Index="286" Name="Ninja" Slot="-1" SkillIndex="0" Width="1" Height="1" Serial="1" Option="1" Drop="0" DropLevel="1" ReqLevel="1" Defense="0" Durability="255" ReqStrength="0" ReqDexterity="0" ReqEnergy="0" ReqVitality="0" ReqCommand="0" SetAttrib="0" DarkWizard="1" DarkKnight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" LightWizard="1" LemuriaMage="1" IllusionKnight="1" Type="0" Dump="0" Transaction="0" PersonalStore="0" StoreWarehouse="0" SellToNPC="1" ExpensiveItem="1" Repair="0" KindA="12" KindB="63" Overlap="0" NonValue="0" MasteryGrade="0" ModelPath="Data\Item\" ModelFile="ninjapet.bmd" no aparece en el cliente
+
+<Item Index="287" Name="Ninja (Evolved)" Slot="-1" SkillIndex="0" Width="1" Height="1" Serial="1" Option="1" Drop="0" DropLevel="0" ReqLevel="0" Defense="0" Durability="255" ReqStrength="0" ReqDexterity="0" ReqEnergy="0" ReqVitality="0" ReqCommand="0" SetAttrib="0" DarkWizard="1" DarkKnight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" LightWizard="1" LemuriaMage="1" IllusionKnight="1" Type="0" Dump="0" Transaction="0" PersonalStore="0" StoreWarehouse="0" SellToNPC="1" ExpensiveItem="1" Repair="0" KindA="12" KindB="63" Overlap="0" NonValue="0" MasteryGrade="0" ModelPath="Data\Item\" ModelFile="ninjapet_evol.bmd" no aparece en el cliente
+		
+<Item Index="288" Name="Samurai" Slot="-1" SkillIndex="0" Width="1" Height="1" Serial="1" Option="1" Drop="0" DropLevel="1" ReqLevel="1" Defense="0" Durability="255" ReqStrength="0" ReqDexterity="0" ReqEnergy="0" ReqVitality="0" ReqCommand="0" SetAttrib="0" DarkWizard="1" DarkKnight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" LightWizard="1" LemuriaMage="1" IllusionKnight="1" Type="0" Dump="0" Transaction="0" PersonalStore="0" StoreWarehouse="0" SellToNPC="1" ExpensiveItem="1" Repair="0" KindA="12" KindB="63" Overlap="0" NonValue="0" MasteryGrade="0" ModelPath="Data\Item\" ModelFile="samouraipet.bmd" no aparece en el cliente
+		
+<Item Index="289" Name="Samurai (Evolved)" Slot="-1" SkillIndex="0" Width="1" Height="1" Serial="1" Option="1" Drop="0" DropLevel="0" ReqLevel="0" Defense="0" Durability="255" ReqStrength="0" ReqDexterity="0" ReqEnergy="0" ReqVitality="0" ReqCommand="0" SetAttrib="0" DarkWizard="1" DarkKnight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" LightWizard="1" LemuriaMage="1" IllusionKnight="1" Type="0" Dump="0" Transaction="0" PersonalStore="0" StoreWarehouse="0" SellToNPC="1" ExpensiveItem="1" Repair="0" KindA="12" KindB="63" Overlap="0" NonValue="0" MasteryGrade="0" ModelPath="Data\Item\" ModelFile="samouraipet_evol.bmd" no aparece en el cliente
+
+Index="290" Name="Cosplay Girl" ModelFile="cosgirlpet.bmd" ok
+Index="291" Name="Cosplay Girl (Evolved)" ModelFile="cosgirlpet_evol.bmd" ok
+Index="292" Name="Cheer Girl" ModelFile="taegeukgirlpet.bmd" ok
+Index="293" Name="Cheer Girl (Evolved)" ModelFile="taegeukgirlpet_evol.bmd" ok
+Index="294" Name="Sporty Girl" ModelFile="SportyGirlpet.bmd" ok
+Index="295" Name="Sporty Girl (Evolved)" ModelFile="SportyGirlpet_evol.bmd" ok
+Index="296" Name="Baal" ModelFile="baelpet.bmd" ok
+Index="297" Name="Baal (Evolved)" ModelFile="baelpet_evol.bmd" ok
+Index="298" Name="Gaap" ModelFile="gapppet.bmd" ok
+Index="299" Name="Gaap (Evolved)" ModelFile="gapppet_evol.bmd" ok
+Index="300" Name="Taaf" ModelFile="tapppet.bmd" ok
+Index="301" Name="Taaf (Evolved)" ModelFile="tapppet_evol.bmd" ok
+Index="302" Name="Frozen" ModelFile="Frozenpet.bmd" ok
+Index="303" Name="Frozen (Evolved)" ModelFile="Frozenpet_evol.bmd" ok
+Index="304" Name="Lure" ModelFile="lurepet.bmd" ok
+Index="305" Name="Lure (Evolved)" ModelFile="lurepet_evol.bmd" ok
+Index="306" Name="Fur Seal" ModelFile="persilpet.bmd" ok
+Index="307" Name="Fur Seal (Evolved)" ModelFile="persilpet_evol.bmd" ok
+Index="308" Name="Lucky Rabbit" ModelFile="luckyrabbit.bmd" ok
+Index="309" Name="Lucky Rabbit (Evolved)" ModelFile="luckyrabbit_evol.bmd" ok
+Index="310" Name="Mooncake Rabbit" ModelFile="songrabbit.bmd" ok
+Index="311" Name="Mooncake Rabbit (Evolved)" ModelFile="songrabbit_evol.bmd" ok
+Index="312" Name="Mortar Rabbit" ModelFile="stonemortarrabbit.bmd" ok
+Index="313" Name="Mortar Rabbit (Evolved)" ModelFile="stonemortarrabbit_evol.bmd" ok
+Index="314" Name="Tarius" ModelFile="polarispet.bmd" ok
+Index="315" Name="Tarius (Evolved)" ModelFile="polarispet_evol.bmd" ok
+Index="316" Name="Rainer" ModelFile="reynerpet.bmd" ok
+Index="317" Name="Rainer (Evolved)" ModelFile="reynerpet_evol.bmd" ok
+Index="318" Name="Alkamo" ModelFile="alcamopet.bmd" ok
+Index="319" Name="Alkamo (Evolved)" ModelFile="alcamopet_evol.bmd" ok
+Index="320" Name="Glacuse" ModelFile="gracchuspet.bmd" ok
+Index="321" Name="Glacuse (Evolved)" ModelFile="gracchuspet_evol.bmd" ok
+Index="322" Name="Kenturion" ModelFile="kenturionpet.bmd" ok
+Index="323" Name="Kenturion (Evolved)" ModelFile="kenturionpet_evol.bmd" ok
+Index="324" Name="Rocka" ModelFile="rockapet.bmd" ok
+Index="325" Name="Rocka (Evolved)" ModelFile="rockapet_evol.bmd" ok
+Index="326" Name="Repen" ModelFile="rippenpet.bmd" ok
+Index="327" Name="Repen (Evolved)" ModelFile="rippenpet_evol.bmd" ok
+Index="328" Name="Pawn" ModelFile="ponpet.bmd" ok
+Index="329" Name="Pawn (Evolved)"  ModelFile="ponpet_evol.bmd" ok
+Index="330" Name="Griffs" ModelFile="griffspet.bmd" ok
+Index="331" Name="Griffs (Evolved)" ModelFile="griffspet_evol.bmd" ok
+Index="332" Name="Polar Bear" ModelFile="polarbearpet.bmd" ok
+Index="333" Name="Polar Bear (Evolved)" ModelFile="polarbearpet_evol.bmd" ok
+Index="334" Name="Present" ModelFile="presentpet.bmd" ok
+Index="335" Name="Present (Evolved)" ModelFile="presentpet_evol.bmd" ok
+Index="336" Name="Rocking Horse" ModelFile="rockinghorsepet.bmd" ok
+Index="337" Name="Rocking Horse (Evolved)" ModelFile="rockinghorsepet_evol.bmd" ok
+Index="338" Name="Aries" ModelFile="orrispet.bmd" ok
+Index="339" Name="Aries (Evolved)" ModelFile="orrispet_evol.bmd" ok
+Index="340" Name="Lester" ModelFile="Leicesterpet.bmd" ok
+Index="341" Name="Lester (Evolved)" ModelFile="Leicesterpet_evol.bmd" ok
+Index="342" Name="Merino"  ModelFile="merinopet.bmd" ok
+Index="343" Name="Merino (Evolved)" ModelFile="merinopet_evol.bmd" ok
+Index="344" Name="Splinter" ModelFile="splinterpet.bmd" ok
+Index="345" Name="Splinter (Evolved)" ModelFile="splinterpet_evol.bmd" ok
+Index="346" Name="Mutation" ModelFile="mutationpet.bmd" ok
+Index="347" Name="Mutation (Evolved)" ModelFile="mutationpet_evol.bmd" ok
+Index="348" Name="Fighter" ModelFile="fighterpet.bmd" ok
+Index="349" Name="Fighter (Evolved)" ModelFile="fighterpet_evol.bmd" ok
+Index="409" Name="Heywood" ModelFile="heywoodpet.bmd" ok
+Index="410" Name="Heywood (Evolved)" ModelFile="heywoodpet_evol.bmd" ok
+Index="411" Name="Branch" ModelFile="branchpet.bmd" ok
+Index="412" Name="Branch (Evolved)" ModelFile="branchpet_evol.bmd" ok
+Index="413" Name="Hook" ModelFile="hookpet.bmd" ok
+Index="414" Name="Hook (Evolved)" ModelFile="hookpet_evol.bmd" ok
+Index="415" Name="Carnifle" ModelFile="caniflepet.bmd" ok
+Index="416" Name="Carnifle (Evolved)" ModelFile="caniflepet_evol.bmd" ok
+Index="417" Name="Mandora" ModelFile="mandorapet.bmd" ok
+Index="418" Name="Mandora (Evolved)" ModelFile="mandorapet_evol.bmd" ok
+Index="419" Name="Treat" ModelFile="treatpet.bmd" ok
+Index="420" Name="Treat (Evolved)" ModelFile="treatpet_evol.bmd" ok
+Index="421" Name="Rose Spirit" ModelFile="rosepet.bmd" ok
+Index="422" Name="Rose Spirit (Evolved)" ModelFile="rosepet_evol.bmd" ok
+Index="423" Name="Freesia Spirit" ModelFile="rapeflowerpet.bmd" ok
+Index="424" Name="Freesia Spirit (Evolved)" ModelFile="rapeflowerpet_evol.bmd" ok
+Index="425" Name="Cherry Blossom Spirit" ModelFile="cherryblossompet.bmd" ok
+Index="426" Name="Cherry Blossom Spirit (Evolved)" ModelFile="cherryblossompet_evol.bmd" ok
+Index="427" Name="Gigantes" ModelFile="gigantespet.bmd" ok
+Index="428" Name="Gigantes (Evolved)" ModelFile="gigantespet_evol.bmd" ok
+Index="429" Name="Mammoth" ModelFile="mommothpet.bmd" ok
+Index="430" Name="Mammoth (Evolved)" ModelFile="mommothpet_evol.bmd" ok
+Index="431" Name="Walker" ModelFile="walkerpet.bmd" ok
+Index="432" Name="Walker (Evolved)" ModelFile="walkerpet_evol.bmd" ok
+Index="433" Name="Surfing Girl" ModelFile="surfinggirl.bmd" ok
+Index="434" Name="Surfing Girl (Evolved)" ModelFile="surfinggirlUp.bmd" ok
+Index="435" Name="Swim Tube Girl" ModelFile="tubegirl.bmd" ok
+Index="436" Name="Swim Tube Girl (Evolved)" ModelFile="tubegirlUP.bmd" ok
+Index="437" Name="Snorkeling Girl" ModelFile="coolinggirlpet.bmd" ok
+Index="438" Name="Snorkeling Girl (Evolved)" ModelFile="coolinggirlpet_evol.bmd" ok
+Index="439" Name="Commander" ModelFile="commander.bmd" ok
+Index="440" Name="Commander (Evolved)" ModelFile="CommanderUp.bmd" ok
+Index="441" Name="Lance Soldier" ModelFile="LanceSoldier.bmd" ok
+Index="442" Name="Lance Soldier (Evolved)" ModelFile="LanceSoldierUp.bmd" ok
+Index="443" Name="Bow Soldier" ModelFile="bowsoldier.bmd" ok
+Index="444" Name="Bow Soldier (Evolved)" ModelFile="bowsoldierUp.bmd" ok
+Index="445" Name="Hammer" ModelFile="hammer.bmd" ok
+Index="446" Name="Hammer (Evolved)" ModelFile="hammerUp.bmd" ok
+Index="447" Name="Refear" ModelFile="ripieo.bmd" ok
+Index="448" Name="Refear (Evolved)" ModelFile="ripieoUp.bmd" ok
+Index="449" Name="Axer" ModelFile="xer.bmd" ok
+Index="450" Name="Axer (Evolved)" ModelFile="xerUp.bmd" ok
+Index="451" Name="Pumpkin Girl" ModelFile="pumpkingirl.bmd" ok
+Index="452" Name="Pumpkin Girl (Evolved)" ModelFile="pumpkingirlUp.bmd" ok
+Index="453" Name="Ghost" ModelFile="ghost.bmd" ok
+Index="454" Name="Ghost (Evolved)" ModelFile="ghostUp.bmd" ok
+Index="455" Name="Mummy Boy" ModelFile="mummyboy.bmd" ok
+Index="456" Name="Mummy Boy (Evolved)" ModelFile="mummyboyUp.bmd" ok
+Index="457" Name="Chrysanthemum" ModelFile="chrysanthemum.bmd" ok
+Index="458" Name="Chrysanthemum (Evolved)" ModelFile="chrysanthemumUp.bmd" ok
+Index="459" Name="Maple" ModelFile="maple.bmd" ok 
+Index="460" Name="Maple (Evolved)" ModelFile="mapleUp.bmd" ok
+Index="461" Name="Ginkgo"  ModelFile="ginkgo.bmd" ok 
+Index="462" Name="Ginkgo (Evolved)" ModelFile="ginkgoUp.bmd" ok
+Index="463" Name="Ghost (Evolved)" ModelFile="ghostUp.bmd" ok
+Index="464" Name="Mummy Boy (Evolved)" ModelFile="mummyboyUp.bmd" ok
+Index="477" Name="[PC Cafe] Aries"  ModelFile="orrispet.bmd" ok
+Index="480" Name="Toy Soldier" ModelFile="toysoldier.bmd" ok
+Index="481" Name="Toy Soldier (Evolved)" ModelFile="toysoldierUp.bmd" ok
+Index="482" Name="Christmas Tree" ModelFile="xmastree.bmd" ok
+Index="483" Name="Christmas Tree (Evolved)" ModelFile="xmastreeUp.bmd" ok
+Index="484" Name="Snowman" ModelFile="snowman.bmd" ok
+Index="485" Name="Snowman (Evolved)" ModelFile="snowmanUp.bmd" ok
+Index="486" Name="Busker Monkey" ModelFile="buskermonkey.bmd" ok
+Index="487" Name="Busker Monkey (Evolved)" ModelFile="buskermonkeyUp.bmd" ok
+Index="488" Name="DJ Monkey" ModelFile="djmonkey.bmd" ok
+Index="489" Name="DJ Monkey (Evolved)" ModelFile="djmonkeyUp.bmd" ok
+Index="490" Name="Space Monkey" ModelFile="spacemonkey.bmd" ok 
+Index="491" Name="Space Monkey (Evolved)" ModelFile="spacemonkeyUp.bmd" ok
+Index="492" Name="Little Cupid" ModelFile="littlecupid.bmd" ok
+Index="493" Name="Little Cupid (Evolved)" ModelFile="littlecupidUp.bmd" ok
+Index="494" Name="Chocolate Cookie" ModelFile="chococookie.bmd" ok
+Index="495" Name="Chocolate Cookie (Evolved)" ModelFile="chococookieUp.bmd" ok 
+Index="496" Name="Heart Girl" ModelFile="heartgirl.bmd" ok
+Index="497" Name="Heart Girl (Evolved)" ModelFile="heartgirlUp.bmd" ok
+Index="498" Name="Candy Girl" ModelFile="candygril.bmd" ok
+Index="499" Name="Candy Girl (Evolved)" ModelFile="candygrilUp.bmd"ok
+Index="500" Name="Lollipop Mama" ModelFile="lollipopmama.bmd" ok
+Index="501" Name="Lollipop Mama (Evolved)" ModelFile="lollipopmamaUp.bmd" ok 
+Index="502" Name="Sweet Muscle Man" ModelFile="sweetmuscleman.bmd" ok
+Index="503" Name="Sweet Muscle Man (Evolved)" ModelFile="SweetMuscleManUp.bmd" ok

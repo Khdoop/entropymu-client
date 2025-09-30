@@ -1,0 +1,20 @@
+name: Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Zip Client folder
+        run: zip -r entropymu_client.zip Client/
+
+      - name: Upload zip to release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: entropymu_client.zip
