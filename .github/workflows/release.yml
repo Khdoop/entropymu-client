@@ -19,10 +19,12 @@ jobs:
       - name: List files to verify Client folder exists
         run: ls -la
 
-      - name: Zip Client folder
+      - name: Zip Client folder contents
         run: |
           if [ -d "Client" ]; then
-            zip -r entropymu_client.zip Client/
+            cd Client
+            zip -r ../entropymu_client.zip *
+            cd ..
             echo "Zip file created successfully"
             ls -la entropymu_client.zip
           else
