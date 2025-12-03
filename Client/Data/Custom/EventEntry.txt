@@ -1,0 +1,93 @@
+[DevilSquare]
+DS1LevelMin_Normal = 15
+DS1LevelMax_Normal = 99
+DS2LevelMin_Normal = 100
+DS2LevelMax_Normal = 199
+DS3LevelMin_Normal = 200
+DS3LevelMax_Normal = 260
+DS4LevelMin_Normal = 270
+DS4LevelMax_Normal = 319
+DS5LevelMin_Normal = 320
+DS5LevelMax_Normal = 359
+DS6LevelMin_Normal = 360
+DS6LevelMax_Normal = 400
+
+DS1LevelMin_MGDLRF = 15
+DS1LevelMax_MGDLRF = 99
+DS2LevelMin_MGDLRF = 100
+DS2LevelMax_MGDLRF = 199
+DS3LevelMin_MGDLRF = 200
+DS3LevelMax_MGDLRF = 260
+DS4LevelMin_MGDLRF = 270
+DS4LevelMax_MGDLRF = 319
+DS5LevelMin_MGDLRF = 320
+DS5LevelMax_MGDLRF = 359
+DS6LevelMin_MGDLRF = 360
+DS6LevelMax_MGDLRF = 400
+
+[BloodCastle]
+BC1LevelMin_Normal = 15
+BC1LevelMax_Normal = 99
+BC2LevelMin_Normal = 100
+BC2LevelMax_Normal = 149
+BC3LevelMin_Normal = 150
+BC3LevelMax_Normal = 209
+BC4LevelMin_Normal = 210
+BC4LevelMax_Normal = 269
+BC5LevelMin_Normal = 270
+BC5LevelMax_Normal = 319
+BC6LevelMin_Normal = 320
+BC6LevelMax_Normal = 359
+BC7LevelMin_Normal = 360
+BC7LevelMax_Normal = 400
+
+BC1LevelMin_MGDLRF = 15
+BC1LevelMax_MGDLRF = 99
+BC2LevelMin_MGDLRF = 100
+BC2LevelMax_MGDLRF = 149
+BC3LevelMin_MGDLRF = 150
+BC3LevelMax_MGDLRF = 209
+BC4LevelMin_MGDLRF = 210
+BC4LevelMax_MGDLRF = 269
+BC5LevelMin_MGDLRF = 270
+BC5LevelMax_MGDLRF = 319
+BC6LevelMin_MGDLRF = 320
+BC6LevelMax_MGDLRF = 359
+BC7LevelMin_MGDLRF = 360
+BC7LevelMax_MGDLRF = 400
+
+[ChaosCastle]
+CC1LevelMin_Normal = 15
+CC1LevelMax_Normal = 99
+CC2LevelMin_Normal = 100
+CC2LevelMax_Normal = 199
+CC3LevelMin_Normal = 200
+CC3LevelMax_Normal = 260
+CC4LevelMin_Normal = 270
+CC4LevelMax_Normal = 319
+CC5LevelMin_Normal = 320
+CC5LevelMax_Normal = 359
+CC6LevelMin_Normal = 360
+CC6LevelMax_Normal = 400
+
+CC1LevelMin_MGDLRF = 15
+CC1LevelMax_MGDLRF = 99
+CC2LevelMin_MGDLRF = 100
+CC2LevelMax_MGDLRF = 199
+CC3LevelMin_MGDLRF = 200
+CC3LevelMax_MGDLRF = 260
+CC4LevelMin_MGDLRF = 270
+CC4LevelMax_MGDLRF = 319
+CC5LevelMin_MGDLRF = 320
+CC5LevelMax_MGDLRF = 359
+CC6LevelMin_MGDLRF = 360
+CC6LevelMax_MGDLRF = 400
+
+CC1Zen = 100000	
+CC2Zen = 200000
+CC3Zen = 300000
+CC4Zen = 400000
+CC5Zen = 1000000
+CC6Zen = 2000000
+CC7Zen = 5000000	
+

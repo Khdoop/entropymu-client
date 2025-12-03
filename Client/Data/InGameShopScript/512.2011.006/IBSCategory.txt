@@ -5,9 +5,7 @@
 33@Others@200@201@10@7@0
 34@Transmog Wings@200@201@10@4@0
 35@Transmog Sets@200@201@10@5@0
-36@Starter Packs@200@201@10@1@0
 37@Transmog Weapons@200@201@10@6@0
-38@Muun Pets@200@201@10@8@0
 61@Sets@200@201@20@1@0
 62@Swords@200@201@20@3@0
 63@Wings@200@201@20@9@0
